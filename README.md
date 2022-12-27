@@ -8,4 +8,6 @@
 LeonardooBecker/LeonardooBecker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<link rel="stylesheet" href="style.css">
+
 <h1>Leonardo Becker</h1>
